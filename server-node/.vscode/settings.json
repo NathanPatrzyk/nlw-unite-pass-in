@@ -1,0 +1,9 @@
+{
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordWrap": "on",
+    "php.format.rules.whileStatementNewLineBeforeRightParen": true,
+    "[prisma]": {
+        "editor.defaultFormatter": "Prisma.prisma"
+    }
+}
