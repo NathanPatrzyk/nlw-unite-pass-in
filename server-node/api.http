@@ -6,3 +6,15 @@ Content-Type: application/json
     "details": "Um evento para quem é apaixonado por programação",
     "maximumAttendees": 100
 }
+
+###
+
+POST http://localhost:3333/events/90849e45-1f3b-41fa-acd0-54088fde444f/attendees
+Content-Type: application/json
+
+{
+    "name": "Nathan Willian Patrzyk",
+    "email": "nathanpatrzyk11@gmail.com"
+}
+
+###
